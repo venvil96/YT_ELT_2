@@ -1,0 +1,4 @@
+.env
+YT_ELT/
+__pycache__/
+data/
